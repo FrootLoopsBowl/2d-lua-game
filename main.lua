@@ -2,7 +2,7 @@ local xRandom = math.random(600)
 local yRandom = math.random(600)
 
 function love.load()
-  love.graphics.setColor(0, 0, 0)
+  love.graphics.setColor(255, 0, 0)
 end
 
 function love.draw()
